@@ -15,6 +15,10 @@
             gap: 50px;
             height: 100%;
 
+            @include lg{
+                padding-right: 50px;
+            }
+
             @include md {
                 padding: 0;
             }
@@ -25,10 +29,10 @@
 
             .title{
                 font-size: 64px;
-            }
-
-            @include lg {
-                font-size: 48px;
+                
+                @include lg {
+                    font-size: 48px;
+                }
             }
 
             .boxes{
