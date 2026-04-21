@@ -10,7 +10,7 @@ function HomePage() {
                         Find Real Estate & Get Your Dream Place
                     </h1>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus numquam perspiciatis iure eveniet ex suscipit quis assumenda distinctio placeat asperiores qui consequatur provident quibusdam debitis, animi, ab excepturi labore. Nobis!
+                        Discover a wide range of properties tailored to your lifestyle and budget. Whether you're looking to buy, rent, or invest, we make the process simple by connecting you with the best listings in prime locations. Start your journey today and find a place you can truly call home.
                     </p>
                     <SearchBar/>
                     <div className='boxes'>
